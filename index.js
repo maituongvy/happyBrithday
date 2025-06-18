@@ -4,8 +4,8 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc bro tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
-  "Học kỳ tới auto điểm cao, học bổng bay vào tay 😎✨",
+  "Chúc bạn tuổi mới thật nhiều niềm vui, luôn mạnh mẽ và rực rỡ 💐",
+  "Học kỳ tới thuận lợi, điểm cao như mong, học bổng thì đến tay một cách xứng đáng 🎓✨",
   "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho bro chill tẹt ga 🎁🎉"
 ];
 
